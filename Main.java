@@ -12,7 +12,7 @@ public class Main
 
     // Print original
     System.out.println("Original: " + ArrayMethods.arrayString(numbers));
-
+    
     // Test reverse
     ArrayMethods.reverse(numbers);
     System.out.println("Reversed: " + ArrayMethods.arrayString(numbers));
